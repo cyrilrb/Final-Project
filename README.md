@@ -8,5 +8,5 @@
 
 * We used Machine Learning in the context of technologies learned.  As well as Scikit-Learn and/or another machine learning library of our choice.
 * We also decided to use Tableau and our choice of Python Pandas or JavaScript D3.js.
-* Based on this we used a Google Slides to display our findings by demonstrating a deep dive into machine learning in the context of demand forecasting Avocado quantities/prices in the United States. 
+* Based on this we used Google Slides to display our findings to demonstrate our deep dive into machine learning in the context of demand forecasting Avocado quantities/prices in the United States. 
 
